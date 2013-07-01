@@ -1,4 +1,9 @@
 #This has been authored by Patricia, anyone can contribute
+
+def add_two(a,b):
+   [print("hi, this is good stuff")
+   return a+b
+
 def add_two(a,b):
    return a+b
 def main():
