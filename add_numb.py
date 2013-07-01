@@ -1,5 +1,4 @@
-#This has been authored by Patricia, anyone can contribute
-#from adding import add_two, add_three
+#This has been authored by Patricia, and will be modifide by Mark anyone can contribute
 
 def main():
    print ("2 + 2 + 2 = ",add_three(2,2,2))
